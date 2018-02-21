@@ -29,7 +29,7 @@ PART 1 (45 min)
 
 PART 2 (45 min)
 * Sampling overview (manipulating recorded sound, data arrays)
-* Patch along: making a sample scrubber in Pd
+* Patch along: making a sample player/looper/scrubber in Pd
 
 PART 3 (45 min)
 * Introduction to GUI design with MobMuPlat editor
