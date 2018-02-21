@@ -25,7 +25,7 @@ PART 1 (45 min)
 * Some ready examples running in MobMuPlat
 * Check Pd and MobMuPlat installations
 * Introduction to programming in Pd
-* Patch along: [metro] and making sound: [osc~], [*~], [dac~]
+* Patch along: control vs. audio, making sound with metro, osc~, *~, dac~
 
 PART 2 (45 min)
 * Sampling overview (manipulating recorded sound, data arrays)
