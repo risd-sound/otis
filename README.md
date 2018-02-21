@@ -5,7 +5,7 @@ Introduction to audio programming for artists: February 27, 2018
 
 Workshop description:
 
-Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sound-based interactions and experiences with the programming language Pure Data (Pd). The workshop's focus will be on the development of a project for mobile devices (e.g. iOS and Android), incorporating touch-screen interaction and data from onboard sensors. Emphasis will be on manipulating recorded sound (sampling) for live performance or installation contexts.
+Shawn Greenlee (Associate Professor, RISD) will lead an introductory workshop on designing sound-based interactions and experiences with the programming language Pure Data (Pd). The workshop's focus will be on the development of a project for mobile devices (e.g. iOS and Android), incorporating touch-screen interaction and data from onboard sensors. Emphasis will be on manipulating recorded sound (sampling) for live performance or installation contexts.
 
 **For today's session:**
 
