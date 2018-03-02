@@ -1,4 +1,4 @@
-#N canvas 439 168 1312 888 10;
+#N canvas 141 28 1312 888 10;
 #X obj 611 477 loadbang;
 #X obj 612 498 t b b b b;
 #X obj 354 854 dac~;
@@ -28,13 +28,13 @@
 #X obj 81 372 spigot;
 #X obj 159 198 mod 4;
 #X obj 159 245 select 0 1 2 3;
-#X obj 164 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 164 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 131 372 spigot;
 #X obj 213 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 180 372 spigot;
-#X obj 263 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 263 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 230 372 spigot;
 #X obj 329 335 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
@@ -43,16 +43,16 @@
 #X obj 379 335 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 346 371 spigot;
-#X obj 428 335 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 428 335 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 395 371 spigot;
 #X obj 478 335 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 445 371 spigot;
-#X obj 553 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 553 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 520 372 spigot;
-#X obj 603 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+#X obj 603 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
 1;
 #X obj 570 372 spigot;
 #X obj 652 336 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
