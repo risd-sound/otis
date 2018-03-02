@@ -18,29 +18,26 @@ Shawn Greenlee (Associate Professor, RISD) will lead an introductory workshop on
 
 ---
 
-**Agenda 2.5 hours:**
+**Agenda**
 
-PART 1 (45 min)
+PART 1
 * Quick overview of composer-built instruments, NIME (new interfaces for musical expression), Pd as prototyping/development platform for mobile computing (e.g. sound design, interactive art and music, apps and games)
-* Some ready examples running in MobMuPlat
 * Check Pd and MobMuPlat installations
 * Introduction to programming in Pd
 * Patch along: control vs. audio, making sound (metro, osc~, line~, dac~)
 
-PART 2 (45 min)
-* Sampling overview (manipulating recorded sound, data arrays)
-* Patch along: making a sample player/looper/scrubber in Pd
-
-PART 3 (45 min)
+PART 2
+* Brief sampling overview (manipulating recorded sound, data arrays)
 * Introduction to GUI design with MobMuPlat editor
 * Patch along: receiving messages from GUI (OSC addresses)
-* Patch along: receiving system messages for using device sensors (tilt data)
-* Patch along: sending messages to GUI (OSC addresses)
+* Patch along: a sample scrubber in Pd
 * Transferring project files to your mobile device
 * Open project in MobMuPlat and play
 * Troubleshooting
 
-PART 4 (time permitting)
+PART 3 (time permitting)
+* Patch along: receiving system messages for using device sensors (tilt data)
+* Patch along: sending messages to GUI (OSC addresses)
 * Wrap-up discussion
 * Ideas toward modifying sample scrubber
 
